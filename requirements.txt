@@ -1,0 +1,8 @@
+numpy
+Pillow
+scipy
+shapely
+rasterio
+geopandas
+pyogrio
+

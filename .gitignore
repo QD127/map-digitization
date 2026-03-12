@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# 输出数据（可按需保留/删除）
+outputs/
+build/
+dist/
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+*_labels*.png
+*_preview*.png
+*_meta*.json
+*_centers_rgb*.json
